@@ -22,7 +22,7 @@ char2.src = "./gif/right walking.gif";
 
 if(e.keyCode == 32){
 
-char1.src = "./gif/left fighting.gif";
+char1.src = "./gif/left fighiting.gif";
 char2.src = "./gif/right-fighting.gif";
 
 setTimeout(function(){
